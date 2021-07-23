@@ -25,8 +25,6 @@
 Plugin:
 
 ```shell
-asdf plugin add tig
-# or
 asdf plugin add tig https://github.com/koketani/asdf-tig.git
 ```
 
